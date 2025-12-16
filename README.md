@@ -1,8 +1,9 @@
 
 <html>
+<img src="https://raw.githubusercontent.com/apust4ja/s4lt.win/refs/heads/main/placeholder.jpeg" alt="placeholder.jpeg">
   
 <body style="background-color:#000000;">
-<p style="border:8px solid lime;" style="color:lime;">welcome to S4LT.WIN</p>
+<p style="border:2px solid lime;" style="color:lime;"> welcome to S4LT.WIN </p>
 <a style="color:lime;" href="https://github.com/apust4ja/s4lt.win/blob/main/silly.jpg">kitty</a>
 
 </body>
