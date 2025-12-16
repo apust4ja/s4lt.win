@@ -1,4 +1,3 @@
-
 <html>
 <body>
 <p>welcome to S4LT.WIN</p>
@@ -11,7 +10,9 @@
 
 <p>List Of Links</p>
 <a href="daavid@mailfence.com">email</a>
+
 <a href="https://elsasalpaus.mmg.fi/">elsa</a>
+
 <a href="">link text</a>
 
 <a href="https://s4nd.win/">s4nd.win petty cool website</a>
