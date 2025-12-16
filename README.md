@@ -7,7 +7,7 @@
 
 </body>
 <aside style="background-color:#000000;" style="position:relative; right:20px;">
-<img src="[https://github.com/apust4ja/s4lt.win/blob/main/placeholder.jpeg](https://github.com/apust4ja/s4lt.win/blob/f2d64e13fb606a6db76c5a9b81e8dcbb3cfd54a9/placeholder.jpeg)" alt="placeholder.jpeg">
+<img src="https://github.com/apust4ja/s4lt.win/blob/main/placeholder.jpeg" alt="placeholder.jpeg">
 </aside>
   <hr>
 <body style="background-color:#000000;">
