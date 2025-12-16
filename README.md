@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<title>
+S4LT.WIN!!!!!
+<title>
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <html>
 <body style="background-color:#000000;">
 <p style="border:8px solid lime;" style="color:lime;">welcome to S4LT.WIN</p>
@@ -8,11 +13,11 @@
 <img src="https://github.com/apust4ja/s4lt.win/blob/main/placeholder.jpeg" alt="placeholder.jpeg">
 
 
-<p style="color:lime;">List Of Links</p>
-<p><a  href="daavid@mailfence.com">email</a></p>
-<p><a href="https://elsasalpaus.mmg.fi/">elsa</a></p>
-<p><a href="https://bigrat.monster">/!\/!\MONSTER/!\/!\</a></p>
-<p><a href="https://s4nd.win/">s4nd.win petty cool website</a></p>
+<p style="color:lime;">List Of Links</p><br>
+<a  href="daavid@mailfence.com">email</a><br>
+<a href="https://elsasalpaus.mmg.fi/">elsa</a><br>
+<a href="https://bigrat.monster">/!\/!\MONSTER/!\/!\</a><br>
+<a href="https://s4nd.win/">s4nd.win petty cool website</a></p>
 
 
 
