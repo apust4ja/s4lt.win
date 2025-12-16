@@ -7,7 +7,7 @@
  <iframe src="https://bigrat.monster" height="200" width="300" title="bigrat"></iframe> 
 </body>
 <aside style="background-color:#000000;">
-<img src="https://github.com/apust4ja/s4lt.win/blob/main/placeholder.jpeg" alt="placeholder.jpeg">
+<img src="[https://github.com/apust4ja/s4lt.win/blob/main/placeholder.jpeg](https://github.com/apust4ja/s4lt.win/blob/f2d64e13fb606a6db76c5a9b81e8dcbb3cfd54a9/placeholder.jpeg)" alt="placeholder.jpeg">
 </aside>
 <body style="background-color:#000000;">
 <p style="color:lime;">List Of Links</p><br>
