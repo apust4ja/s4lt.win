@@ -6,7 +6,7 @@
 <a style="color:lime;" href="https://github.com/apust4ja/s4lt.win/blob/main/silly.jpg">kitty</a>
  <iframe style="position:relative; left:20px;" src="https://bigrat.monster" height="200" width="300" title="bigrat"></iframe> 
 </body>
-<aside style="background-color:#000000;" style="position:relative; left:20px;">
+<aside style="background-color:#000000;" style="position:relative; right:20px;">
 <img src="[https://github.com/apust4ja/s4lt.win/blob/main/placeholder.jpeg](https://github.com/apust4ja/s4lt.win/blob/f2d64e13fb606a6db76c5a9b81e8dcbb3cfd54a9/placeholder.jpeg)" alt="placeholder.jpeg">
 </aside>
 <body style="background-color:#000000;">
