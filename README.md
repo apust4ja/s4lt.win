@@ -5,11 +5,11 @@
 <p style="border:8px solid lime;" style="color:lime;">welcome to S4LT.WIN</p>
 <a style="color:lime;" href="https://github.com/apust4ja/s4lt.win/blob/main/silly.jpg">kitty</a>
 
-
-
+</body>
+<aside>
 <img src="https://github.com/apust4ja/s4lt.win/blob/main/placeholder.jpeg" alt="placeholder.jpeg">
-
-
+<aside>
+<body style="background-color:#000000;">
 <p style="color:lime;">List Of Links</p><br>
 <a  href="daavid@mailfence.com">email</a><br>
 <a href="https://elsasalpaus.mmg.fi/">elsa</a><br>
