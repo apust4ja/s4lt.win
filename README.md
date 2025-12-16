@@ -4,7 +4,6 @@
 <body style="background-color:#000000;">
 <p style="border:8px solid lime;" style="color:lime;">welcome to S4LT.WIN</p>
 <a style="color:lime;" href="https://github.com/apust4ja/s4lt.win/blob/main/silly.jpg">kitty</a>
- <iframe style="position:relative; left:20px;" src="https://bigrat.monster" height="200" width="300" title="bigrat"></iframe> 
 </body>
 <aside style="background-color:#000000;" style="position:relative; right:20px;">
 <img src="[https://github.com/apust4ja/s4lt.win/blob/main/placeholder.jpeg](https://github.com/apust4ja/s4lt.win/blob/f2d64e13fb606a6db76c5a9b81e8dcbb3cfd54a9/placeholder.jpeg)" alt="placeholder.jpeg">
@@ -21,7 +20,7 @@
 <p style="border:8px lime;" style="color:lime;">List Of Contacts<br>
 <a href="mailto:daavid@mailfence.com">Send email to me </a><br>
 <a href="@s4lt.matrix.com">matrix</a></p>
- 
+<a  href="https://en.wikipedia.org/wiki/Copyleft" >salt🄯 2026 all lefts unreserved.< </a>
 </body>
 </html>
 
