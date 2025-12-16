@@ -16,8 +16,8 @@
 
 
 
-<p style="border:2px lime;" style="color:lime;">List Of Contacts
-<a href="mailto:daavid@mailfence.com">Send email to me </a>
+<p style="border:2px lime;" style="color:lime;">List Of Contacts<br>
+<a href="mailto:daavid@mailfence.com">Send email to me </a><br>
 <a href="@s4lt.matrix.com">matrix</a></p>
  
 </body>
