@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>S4LT.WIN</h1>
+<h1>style="border:2px Lime;"S4LT.WIN</h1>
 <p>welcome to S4LT.WIN</p>
 <a href="https://github.com/apust4ja/s4lt.win/blob/main/silly.jpg">kitty</a>
 
