@@ -9,16 +9,16 @@
 
 
 <p style="color:lime;">List Of Links</p>
-<p><a  href="daavid@mailfence.com">email</a><p>
-<p><a href="https://elsasalpaus.mmg.fi/">elsa</a><p>
-<p><a href="">link text</a><p>
-<p><a href="https://s4nd.win/">s4nd.win petty cool website</a><p>
+<p><a  href="daavid@mailfence.com">email</a></p>
+<p><a href="https://elsasalpaus.mmg.fi/">elsa</a></p>
+<p><a href="">link text</a></p>
+<p><a href="https://s4nd.win/">s4nd.win petty cool website</a></p>
 
 
 
 <p style="color:lime;">List Of Contacts</p>
-<p> <a href="mailto:daavid@mailfence.com">Send email to me </a><p>
-<p> <a href="@s4lt.matrix.com">matrix</a> <p>
+<p> <a href="mailto:daavid@mailfence.com">Send email to me </a></p>
+<p> <a href="@s4lt.matrix.com">matrix</a></p>
  
 </body>
 </html>
