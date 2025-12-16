@@ -1,6 +1,6 @@
 
 <html>
-<img src="https://raw.githubusercontent.com/apust4ja/s4lt.win/refs/heads/main/placeholder.jpeg" alt="placeholder.jpeg">
+<img src="https://github.com/apust4ja/s4lt.win/blob/06e6dc3991ce04bba5dce7d1942c3c53813e3b42/banner.gif" alt="placeholder.gif">
   
 <body style="background-color:#000000;">
 <p style="border:2px solid lime;" style="color:lime;"> welcome to S4LT.WIN </p>
