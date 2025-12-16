@@ -1,8 +1,5 @@
 
 <html>
-<head>
-<title>s4lt.win</title>
-</head>
 <body>
 
 <h1>S4LT.WIN</h1>
