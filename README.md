@@ -16,7 +16,7 @@
 <a href="https://elsasalpaus.mmg.fi/">elsa</a>
 <a href="">link text</a>
 
-<a href="(https://s4nd.win/)">s4nd.win petty cool website</a>
+<a href="https://s4nd.win/">s4nd.win petty cool website</a>
 
 
 
