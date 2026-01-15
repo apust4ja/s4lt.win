@@ -1,0 +1,12 @@
+html{
+  color-scheme: dark;
+}
+
+body{
+  margin: 0px;
+}
+
+@font-face{
+  font-family: term;
+  src: url("3270.woff")
+}
