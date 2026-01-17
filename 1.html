@@ -11,16 +11,22 @@ body {
  background-repeat: no-repeat;
   background-attachment: fixed; 
 }
-
+#div1 {
+  border-radius: 25px;
+  background-color:#4e5173; ;
+  padding: 20px; 
+  width: 500px;
+  height: 150px; 
 </style>
 </head> 
 
  <a  href="https://s4lt.win/"><img style="float:right;width:42px;height:42px;"src="https://s4lt.win/nuoli.png" alt="rikki"></a>
 
 <body onload="startTime()">
-<h2 style="background-color:#4e5173;font-size:50px; color:#32CD32"; >Current_Time   Current_Date</h2>
-<div style="background-color:#4e5173;font-size:50px; color:#32CD32"; id="txt"></div>
-
+<div id=div1>
+ <h2 style="font-size:50px; color:#32CD32"; >Current_Time   Current_Date</h2>
+<div style="font-size:50px; color:#32CD32"; id="txt"></div>
+</div>
 <script>
 function startTime() {
   const today = new Date();
